@@ -1,5 +1,18 @@
 arrayName.length
 arrayName[2]  2  //2 number index er value show kora
-arrayName.indexOf(2) // 2 number value er index show kora
+arrayName.indexOf(2) // 2 number value er index show kora (Jodi -1 hoy, taile ay index nai)
 arrayName[2] = 77  //2 number index er value replace kora
+arrayName.push(77)  // array last item e 77 add kora
+arrayName.pop()  // last item remove kore onno 1ta variable e raka
+
+
+
+
+
+
+
+
+
+
+
 
