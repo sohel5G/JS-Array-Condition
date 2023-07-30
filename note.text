@@ -1,0 +1,5 @@
+arrayName.length
+arrayName[2]  2  //2 number index er value show kora
+arrayName.indexOf(2) // 2 number value er index show kora
+arrayName[2] = 77  //2 number index er value replace kora
+
